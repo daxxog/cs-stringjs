@@ -1,6 +1,6 @@
 {
     "name"        : "cs-stringjs",
-    "description" : "Transaction safe currency object for JavaScript.",
+    "description" : "coffeeshop.js repo for string.js",
     "homepage"    : "https://github.com/daxxog/cs-stringjs",
     "main"        : "string.js",
     "version"     : "0.0.1",
